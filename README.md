@@ -33,7 +33,7 @@ a rolling z-score of that spread to generate trading signals.
 
 **Sharpe Ratio:** 0.07 · **Max Drawdown:** 0.02 · **Win Rate** 49.18%
 
-*![Equity Curve](./assets/equity_curve.png)*
+*![Equity Curve](./assets/equity_curve_pairs.png)*
 
 Performance is close to flat overall, with a clear decline in win rate
 between the two periods — consistent with a broader edge decay in this
